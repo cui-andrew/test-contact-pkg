@@ -1,0 +1,13 @@
+{
+    "name": "andrew/contact",
+    "description": "This is a test package",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Andrew\\Contact\\": "src/"
+        }
+    }
+}
